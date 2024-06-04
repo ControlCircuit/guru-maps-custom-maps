@@ -15,3 +15,12 @@ Source: [Swisstopo](https://s.geo.admin.ch/vlg9fcsjhqdn)
 
 "Veloland Schweiz" by SchweizMobil covers the national, regional and local cycle routes in Switzerland and the Principality of Liechtenstein.  
 [_swisstopo-veloland-schweiz-mobil.ms_](/swisstopo-veloland-schweiz-mobil.ms)  
+
+**Bergfex OSM:**  
+Source: [Bergfex OSM](https://tiles.bergfex.at/)
+
+Bergfex a proprietary hiking map based on OSM.  
+[_swisstopo-veloland-schweiz-mobil.ms_](/swisstopo-veloland-schweiz-mobil.ms)
+
+Bergfex additional slope layer Europe.  
+[_swisstopo-veloland-schweiz-mobil.ms_](/swisstopo-veloland-schweiz-mobil.ms)
