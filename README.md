@@ -1,7 +1,7 @@
 # Guru-Maps-Custom-Maps
 Additional maps and overlays for Guru Maps
 
-**Map Overlays from Swisstopo for Switzerland:**  
+## **Map Overlays from Swisstopo for Switzerland:**  
 Source: [Swisstopo](https://s.geo.admin.ch/vlg9fcsjhqdn)
 
 **Wanderwege** swissTLM3D contains the signposted hiking routes in Switzerland and the Principality of Liechtenstein. The dataset is published in collaboration with the Federal Roads Office ASTRA, SwitzerlandMobility, Schweizer Wanderwege and the cantons.  
@@ -15,8 +15,8 @@ Source: [Swisstopo](https://s.geo.admin.ch/vlg9fcsjhqdn)
 
 **Veloland Schweiz** by SchweizMobil covers the national, regional and local cycle routes in Switzerland and the Principality of Liechtenstein.  
 [_swisstopo-veloland-schweiz-mobil.ms_](/swisstopo-veloland-schweiz-mobil.ms)  
-
-**Bergfex OSM, Map and Overlays:**  
+  
+## **Bergfex OSM, Map and Overlays:**  
 Source: [Bergfex OSM](https://tiles.bergfex.at/)
 
 **Bergfex OSM** a proprietary hiking map based on OSM.  
