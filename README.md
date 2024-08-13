@@ -22,6 +22,9 @@ Source: [Bergfex OSM](https://tiles.bergfex.at/)
 **Bergfex OSM** a proprietary hiking map based on OSM.  
 [_bergfex-osm.ms_](/bergfex-osm.ms)
 
+**Bergfex cycling layer**  
+[_bergfex-cycling.ms_](/bergfex-cycling.ms)  
+
 **Bergfex additional bike layer**  
 [_bergfex-additional-bike-layer.ms_](/bergfex-additional-bike-layer.ms)  
 
