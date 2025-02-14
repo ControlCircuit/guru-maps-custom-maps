@@ -28,11 +28,11 @@ Source: [Bergfex OSM](https://tiles.bergfex.at/)
 ## **France:** 
 Source: [Bergfex OSM](https://tiles.bergfex.at/)
 
-**IGN France**
+**IGN France** the French National Institute of Geographic and Forestry Information. It's a government organization responsible for producing and maintaining high-quality geographical data, maps, and aerial imagery of France.  
 [_ign-france.ms_](/ign-france.ms)  
 
 ## **Spain:**
 Source: [IGN Spain](https://www.ign.es/web/ide-area-nodo-ide-ign/)
 
-**Cartografía Ráster de España del IGN**  
+**Cartografía Ráster de España del IGN** is Spain's official institution for cartography, geodesy, and astronomy. It is part of the Spanish government under the Ministry of Transport, Mobility, and Urban Agenda.  
 [_ign-spain.ms_](/ign-spain.ms)  
