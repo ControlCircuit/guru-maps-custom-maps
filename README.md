@@ -25,8 +25,14 @@ Source: [Bergfex OSM](https://tiles.bergfex.at/)
 **Bergfex cycling layer**  
 [_bergfex-cycling.ms_](/bergfex-cycling.ms)  
 
-**Bergfex additional bike layer**  
-[_bergfex-additional-bike-layer.ms_](/bergfex-additional-bike-layer.ms)  
+## **France:** 
+Source: [Bergfex OSM](https://tiles.bergfex.at/)
 
-**Bergfex additional slope layer Europe**   
-[_bergfex-additional-slope-layer-europe.ms_](/bergfex-additional-slope-layer-europe.ms)  
+**IGN France**
+[_ign-france.ms_](/ign-france.ms)  
+
+## **Spain:**
+Source: [IGN Spain](https://www.ign.es/web/ide-area-nodo-ide-ign/)
+
+**Cartografía Ráster de España del IGN**  
+[_ign-spain.ms_](/ign-spain.ms)  

@@ -3,5 +3,5 @@
     <name>Bergfex Radrouten</name>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>https://tiles.bergfex.at/styles/cycling-overlay/512/{z}/{x}/{y}.png</url>
+    <url>https://tiles.bergfex.at/styles/cycling-overlay/{z}/{x}/{y}.png</url>
 </customMapSource> 
